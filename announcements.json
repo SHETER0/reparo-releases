@@ -1,25 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-01-27T02:28:02.170Z",
+  "updatedAt": "2026-01-27T02:29:04.982Z",
   "messages": [
-    {
-      "id": "info-001",
-      "type": "info",
-      "title": {
-        "en": "Telegram",
-        "ar": "Telegram"
-      },
-      "body": {
-        "en": "Join us on Telegram",
-        "ar": "انضم الئ قناتنا في التليقرام"
-      },
-      "link": "https:google.com",
-      "linkText": {
-        "en": "join",
-        "ar": "انضم"
-      },
-      "showOnce": true
-    },
     {
       "id": "msg-004",
       "type": "info",
