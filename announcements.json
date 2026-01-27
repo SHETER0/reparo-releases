@@ -1,24 +1,5 @@
 {
   "schema": 1,
-  "updatedAt": "2026-01-27T21:59:44.312Z",
-  "messages": [
-    {
-      "id": "msg-1",
-      "type": "info",
-      "title": {
-        "en": "فريق خبير",
-        "ar": "khabeer Team"
-      },
-      "body": {
-        "en": "شكرا ل استخدامك خبير ",
-        "ar": "Thank You For Using Khabeer"
-      },
-      "link": "",
-      "linkText": {
-        "en": "",
-        "ar": ""
-      },
-      "showOnce": true
-    }
-  ]
+  "updatedAt": "2026-01-27T22:01:54.754Z",
+  "messages": []
 }
