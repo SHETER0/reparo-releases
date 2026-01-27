@@ -2,6 +2,24 @@
   "schema": 1,
   "updatedAt": "2023-10-27T10:00:00Z",
   "messages": [
+        {
+      "id": "telegram-invite-001",
+      "type": "info",
+      "title": {
+        "en": "Join Our Community!",
+        "ar": "انضم إلى مجتمعنا!"
+      },
+      "body": {
+        "en": "Get support, tips, and updates by joining our Telegram group.",
+        "ar": "احصل على الدعم والنصائح والتحديثات من خلال الانضمام إلى مجموعة تيليجرام الخاصة بنا."
+      },
+      "link": "https://t.me/your_telegram_group",
+      "linkText": {
+        "en": "Join Telegram",
+        "ar": "انضم إلى تيليجرام"
+      },
+      "showOnce": true
+    },
     {
       "id": "msg-001",
       "type": "info",
