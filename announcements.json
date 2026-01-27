@@ -1,32 +1,50 @@
 {
   "schema": 1,
-  "updatedAt": "2026-01-27T22:02:45.287Z",
+  "updatedAt": "2026-01-27T22:20:35.105Z",
   "messages": [
-        {
-        "id": "msg-002",
-        "type": "info",
-        "title": {
-            "en": "Welcome!",
-            "ar": "مرحباً"
-        },
-        "body": {
-            "en": "Thanks for using Reparo.",
-            "ar": "شكراً لاستخدامك خبير."
-        },
-        "showOnce": true
+    {
+      "id": "asd",
+      "type": "info",
+      "title": {
+        "en": "asd",
+        "ar": "asd"
+      },
+      "body": {
+        "en": "asd",
+        "ar": "asd"
+      },
+      "link": "",
+      "linkText": {
+        "en": "",
+        "ar": ""
+      },
+      "showOnce": true
     },
     {
-        "id": "msg-001",
-        "type": "info",
-        "title": {
-            "en": "Welcome!",
-            "ar": "مرحباً"
-        },
-        "body": {
-            "en": "Thanks for using Reparo.",
-            "ar": "شكراً لاستخدامك خبير."
-        },
-        "showOnce": true
+      "id": "msg-002",
+      "type": "info",
+      "title": {
+        "en": "Welcome!",
+        "ar": "مرحباً"
+      },
+      "body": {
+        "en": "Thanks for using Reparo.",
+        "ar": "شكراً لاستخدامك خبير."
+      },
+      "showOnce": true
+    },
+    {
+      "id": "msg-001",
+      "type": "info",
+      "title": {
+        "en": "Welcome!",
+        "ar": "مرحباً"
+      },
+      "body": {
+        "en": "Thanks for using Reparo.",
+        "ar": "شكراً لاستخدامك خبير."
+      },
+      "showOnce": true
     }
   ]
 }
