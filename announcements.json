@@ -1,5 +1,24 @@
 {
   "schema": 1,
-  "updatedAt": "2026-01-27T22:23:46.114Z",
-  "messages": []
+  "updatedAt": "2026-01-27T22:24:35.741Z",
+  "messages": [
+    {
+      "id": "update-v4",
+      "type": "info",
+      "title": {
+        "en": "test",
+        "ar": "test"
+      },
+      "body": {
+        "en": "test",
+        "ar": "test"
+      },
+      "showOnce": true,
+      "link": "https://www.youtube.com/watch?v=bnjjMiHq1wU",
+      "linkText": {
+        "en": "watch on Youtobe",
+        "ar": "شاهد مقطع يوتيوب"
+      }
+    }
+  ]
 }
