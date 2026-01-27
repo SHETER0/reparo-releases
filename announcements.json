@@ -1,8 +1,8 @@
 {
   "schema": 1,
-  "updatedAt": "2023-10-27T10:00:00Z",
+  "updatedAt": "2026-01-27T01:39:33.080Z",
   "messages": [
-        {
+    {
       "id": "critical-update2421",
       "type": "critical",
       "title": {
@@ -23,17 +23,15 @@
     {
       "id": "msg-001",
       "type": "info",
-      "title": { "en": "Welcome!", "ar": "مرحباً" },
-      "body": { "en": "Thanks for using Reparo.", "ar": "شكراً لاستخدامك خبير." },
+      "title": {
+        "en": "Welcome!",
+        "ar": "مرحباً"
+      },
+      "body": {
+        "en": "Thanks for using Reparo.",
+        "ar": "شكراً لاستخدامك خبير."
+      },
       "showOnce": true
-    },
-    {
-      "id": "critical-update",
-      "type": "critical",
-      "force": true,
-      "minAppVersion": "3.0.0",
-      "title": { "en": "Update Required", "ar": "تحديث مطلوب" },
-      "body": { "en": "Please update to continue.", "ar": "يرجى التحديث للمتابعة." }
     }
   ]
 }
