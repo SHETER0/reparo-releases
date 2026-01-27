@@ -1,20 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-01-27T02:29:11.370Z",
+  "updatedAt": "2026-01-27T02:29:14.584Z",
   "messages": [
-    {
-      "id": "msg-24121",
-      "type": "info",
-      "title": {
-        "en": "hello",
-        "ar": "مرحبا"
-      },
-      "body": {
-        "en": "تجريبي",
-        "ar": "Test "
-      },
-      "showOnce": true
-    },
     {
       "id": "critical-update2421",
       "type": "critical",
