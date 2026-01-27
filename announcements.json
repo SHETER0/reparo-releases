@@ -1,19 +1,5 @@
 {
   "schema": 1,
-  "updatedAt": "2026-01-27T22:23:41.227Z",
-  "messages": [
-    {
-      "id": "msg-001",
-      "type": "info",
-      "title": {
-        "en": "Welcome!",
-        "ar": "مرحباً"
-      },
-      "body": {
-        "en": "Thanks for using Reparo.",
-        "ar": "شكراً لاستخدامك خبير."
-      },
-      "showOnce": true
-    }
-  ]
+  "updatedAt": "2026-01-27T22:23:46.114Z",
+  "messages": []
 }
