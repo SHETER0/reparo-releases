@@ -1,25 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-01-27T02:29:14.584Z",
+  "updatedAt": "2026-01-27T02:29:18.216Z",
   "messages": [
-    {
-      "id": "critical-update2421",
-      "type": "critical",
-      "title": {
-        "en": "Join Our Community!",
-        "ar": "انضم إلى مجتمعنا!"
-      },
-      "body": {
-        "en": "Get support, tips, and updates by joining our Telegram group.",
-        "ar": "احصل على الدعم والنصائح والتحديثات من خلال الانضمام إلى مجموعة تيليجرام الخاصة بنا."
-      },
-      "link": "https://t.me/your_telegram_group",
-      "linkText": {
-        "en": "Join Telegram",
-        "ar": "انضم إلى تيليجرام"
-      },
-      "showOnce": true
-    },
     {
       "id": "msg-001",
       "type": "info",
