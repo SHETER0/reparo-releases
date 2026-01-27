@@ -3,8 +3,8 @@
   "updatedAt": "2023-10-27T10:00:00Z",
   "messages": [
         {
-      "id": "telegram-invite-001",
-      "type": "info",
+      "id": "telegram-invite-002",
+      "type": "critical",
       "title": {
         "en": "Join Our Community!",
         "ar": "انضم إلى مجتمعنا!"
