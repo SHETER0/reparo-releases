@@ -1,20 +1,7 @@
 {
   "schema": 1,
-  "updatedAt": "2026-01-28T00:43:11.569Z",
+  "updatedAt": "2026-01-28T00:43:14.781Z",
   "messages": [
-    {
-      "id": "update-v5",
-      "type": "info",
-      "title": {
-        "en": "trest",
-        "ar": "test"
-      },
-      "body": {
-        "en": "test",
-        "ar": "test"
-      },
-      "showOnce": true
-    },
     {
       "id": "test",
       "type": "info",
