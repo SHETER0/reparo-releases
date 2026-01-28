@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updatedAt": "2026-01-28T00:44:35.745Z",
+  "updatedAt": "2026-01-28T00:45:54.256Z",
   "messages": [
-   
+    {
+      "id": "msg-1225",
+      "type": "info",
+      "title": {
+        "en": "asd",
+        "ar": ""
+      },
+      "body": {
+        "en": "asd",
+        "ar": "asd"
+      },
+      "showOnce": true
+    }
   ]
 }
