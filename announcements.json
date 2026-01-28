@@ -1,24 +1,32 @@
 {
   "schema": 1,
-  "updatedAt": "2026-01-28T01:21:20.210Z",
+  "updatedAt": "2026-01-28T01:22:31.858Z",
   "messages": [
     {
-      "id": "msg-2",
+      "id": "msg-24542",
       "type": "info",
       "title": {
-        "en": "asdd",
-        "ar": "asdasd"
+        "en": "zxczxc",
+        "ar": "zxczxc"
       },
       "body": {
-        "en": "asd",
-        "ar": "asdasd"
+        "en": "zxczxczxc",
+        "ar": "zxczxc"
       },
-      "showOnce": true,
-      "link": "https://github.com/SHETER0/reparo-releases/blob/main/announcements.json",
-      "linkText": {
-        "en": "test",
-        "ar": "test"
-      }
+      "showOnce": true
+    },
+    {
+      "id": "msg-022",
+      "type": "info",
+      "title": {
+        "en": "hello",
+        "ar": "اهلا"
+      },
+      "body": {
+        "en": "hello there",
+        "ar": "مرحبا انت"
+      },
+      "showOnce": true
     }
   ]
 }
