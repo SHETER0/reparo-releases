@@ -1,50 +1,50 @@
 {
   "schema": 1,
-  "updatedAt": "2026-01-28T01:50:40.725Z",
+  "updatedAt": "2026-01-28T01:53:47.118Z",
   "messages": [
     {
-      "id": "test",
+      "id": "update-12",
       "type": "info",
       "title": {
-        "en": "asdasd",
+        "en": "test",
+        "ar": "test"
+      },
+      "body": {
+        "en": "test",
+        "ar": "asdzxc"
+      },
+      "showOnce": true
+    },
+    {
+      "id": "msg-5555",
+      "type": "info",
+      "title": {
+        "en": "Hello",
+        "ar": "مرحبا"
+      },
+      "body": {
+        "en": "test Message From Admin App",
+        "ar": "رساله تجريبيه من المشرف"
+      },
+      "showOnce": true
+    },
+    {
+      "id": "msg-2",
+      "type": "info",
+      "title": {
+        "en": "asdd",
         "ar": "asdasd"
       },
       "body": {
-        "en": "asdasd",
+        "en": "asd",
         "ar": "asdasd"
       },
       "showOnce": true,
-      "link": "https://github.com/SHETER0/reparo-releases/releases/tag/v2.3.8",
+      "link": "https://github.com/SHETER0/reparo-releases/blob/main/announcements.json",
       "linkText": {
-        "en": "asdasd",
-        "ar": "asdasd"
+        "en": "test",
+        "ar": "test"
       }
-    },
-    {
-      "id": "msg-24542",
-      "type": "info",
-      "title": {
-        "en": "zxczxc",
-        "ar": "zxczxc"
-      },
-      "body": {
-        "en": "zxczxczxc",
-        "ar": "zxczxc"
-      },
-      "showOnce": true
-    },
-    {
-      "id": "msg-022",
-      "type": "info",
-      "title": {
-        "en": "hello",
-        "ar": "اهلا"
-      },
-      "body": {
-        "en": "hello there",
-        "ar": "مرحبا انت"
-      },
-      "showOnce": true
     }
   ]
 }
