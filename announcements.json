@@ -1,7 +1,25 @@
 {
   "schema": 1,
-  "updatedAt": "2026-01-28T00:36:26.508Z",
+  "updatedAt": "2026-01-28T00:38:06.067Z",
   "messages": [
+    {
+      "id": "msg-0051",
+      "type": "info",
+      "title": {
+        "en": "asd",
+        "ar": "asd"
+      },
+      "body": {
+        "en": "asd",
+        "ar": "asd"
+      },
+      "showOnce": true,
+      "link": "https://www.youtube.com/watch?v=bnjjMiHq1wU",
+      "linkText": {
+        "en": "test",
+        "ar": "test"
+      }
+    },
     {
       "id": "update-v5",
       "type": "info",
