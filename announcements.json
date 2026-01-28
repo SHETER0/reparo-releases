@@ -2,36 +2,6 @@
   "schema": 1,
   "updatedAt": "2026-01-28T00:44:35.745Z",
   "messages": [
-    {
-      "id": "msg-002",
-      "type": "info",
-      "title": {
-        "en": "test",
-        "ar": "test"
-      },
-      "body": {
-        "en": "test",
-        "ar": "test"
-      },
-      "showOnce": true
-    },
-    {
-      "id": "msg-001",
-      "type": "info",
-      "title": {
-        "en": "test",
-        "ar": "test"
-      },
-      "body": {
-        "en": "test",
-        "ar": "test"
-      },
-      "showOnce": true,
-      "link": "https://raw.githubusercontent.com/SHETER0/reparo-releases/main/announcements.json",
-      "linkText": {
-        "en": "test",
-        "ar": "test"
-      }
-    }
+   
   ]
 }
