@@ -1,37 +1,50 @@
 {
   "schema": 1,
-  "updatedAt": "2026-01-28T01:26:52.888Z",
+  "updatedAt": "2026-01-28T01:50:40.725Z",
   "messages": [
     {
-      "id": "msg-5555",
+      "id": "test",
       "type": "info",
       "title": {
-        "en": "Hello",
-        "ar": "مرحبا"
+        "en": "asdasd",
+        "ar": "asdasd"
       },
       "body": {
-        "en": "test Message From Admin App",
-        "ar": "رساله تجريبيه من المشرف"
+        "en": "asdasd",
+        "ar": "asdasd"
+      },
+      "showOnce": true,
+      "link": "https://github.com/SHETER0/reparo-releases/releases/tag/v2.3.8",
+      "linkText": {
+        "en": "asdasd",
+        "ar": "asdasd"
+      }
+    },
+    {
+      "id": "msg-24542",
+      "type": "info",
+      "title": {
+        "en": "zxczxc",
+        "ar": "zxczxc"
+      },
+      "body": {
+        "en": "zxczxczxc",
+        "ar": "zxczxc"
       },
       "showOnce": true
     },
     {
-      "id": "msg-2",
+      "id": "msg-022",
       "type": "info",
       "title": {
-        "en": "asdd",
-        "ar": "asdasd"
+        "en": "hello",
+        "ar": "اهلا"
       },
       "body": {
-        "en": "asd",
-        "ar": "asdasd"
+        "en": "hello there",
+        "ar": "مرحبا انت"
       },
-      "showOnce": true,
-      "link": "https://github.com/SHETER0/reparo-releases/blob/main/announcements.json",
-      "linkText": {
-        "en": "test",
-        "ar": "test"
-      }
+      "showOnce": true
     }
   ]
 }
