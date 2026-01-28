@@ -1,5 +1,19 @@
 {
   "schema": 1,
-  "updatedAt": "2026-01-28T00:52:03.352Z",
-  "messages": []
+  "updatedAt": "2026-01-28T01:19:59.978Z",
+  "messages": [
+    {
+      "id": "msg-022",
+      "type": "info",
+      "title": {
+        "en": "hello",
+        "ar": "اهلا"
+      },
+      "body": {
+        "en": "hello there",
+        "ar": "مرحبا انت"
+      },
+      "showOnce": true
+    }
+  ]
 }
