@@ -1,24 +1,5 @@
 {
   "schema": 1,
-  "updatedAt": "2026-01-28T00:43:18.255Z",
-  "messages": [
-    {
-      "id": "update-v4",
-      "type": "info",
-      "title": {
-        "en": "test",
-        "ar": "test"
-      },
-      "body": {
-        "en": "test",
-        "ar": "test"
-      },
-      "showOnce": true,
-      "link": "https://www.youtube.com/watch?v=bnjjMiHq1wU",
-      "linkText": {
-        "en": "watch on Youtobe",
-        "ar": "شاهد مقطع يوتيوب"
-      }
-    }
-  ]
+  "updatedAt": "2026-01-28T00:43:29.839Z",
+  "messages": []
 }
