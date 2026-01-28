@@ -1,7 +1,20 @@
 {
   "schema": 1,
-  "updatedAt": "2026-01-28T00:44:00.078Z",
+  "updatedAt": "2026-01-28T00:44:35.745Z",
   "messages": [
+    {
+      "id": "msg-002",
+      "type": "info",
+      "title": {
+        "en": "test",
+        "ar": "test"
+      },
+      "body": {
+        "en": "test",
+        "ar": "test"
+      },
+      "showOnce": true
+    },
     {
       "id": "msg-001",
       "type": "info",
