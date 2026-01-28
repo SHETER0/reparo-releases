@@ -1,7 +1,20 @@
 {
   "schema": 1,
-  "updatedAt": "2026-01-28T01:53:47.118Z",
+  "updatedAt": "2026-01-28T02:00:55.286Z",
   "messages": [
+    {
+      "id": "update-v653",
+      "type": "info",
+      "title": {
+        "en": "hello",
+        "ar": "مرحبا"
+      },
+      "body": {
+        "en": "ANNOUNCEMENT_URL ",
+        "ar": "ANNOUNCEMENT_URL "
+      },
+      "showOnce": true
+    },
     {
       "id": "update-12",
       "type": "info",
