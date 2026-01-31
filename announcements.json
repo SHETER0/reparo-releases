@@ -2,62 +2,6 @@
   "schema": 1,
   "updatedAt": "2026-01-28T02:00:55.286Z",
   "messages": [
-    {
-      "id": "update-v653",
-      "type": "info",
-      "title": {
-        "en": "hello",
-        "ar": "مرحبا"
-      },
-      "body": {
-        "en": "ANNOUNCEMENT_URL ",
-        "ar": "ANNOUNCEMENT_URL "
-      },
-      "showOnce": true
-    },
-    {
-      "id": "update-12",
-      "type": "info",
-      "title": {
-        "en": "test",
-        "ar": "test"
-      },
-      "body": {
-        "en": "test",
-        "ar": "asdzxc"
-      },
-      "showOnce": true
-    },
-    {
-      "id": "msg-5555",
-      "type": "info",
-      "title": {
-        "en": "Hello",
-        "ar": "مرحبا"
-      },
-      "body": {
-        "en": "test Message From Admin App",
-        "ar": "رساله تجريبيه من المشرف"
-      },
-      "showOnce": true
-    },
-    {
-      "id": "msg-2",
-      "type": "info",
-      "title": {
-        "en": "asdd",
-        "ar": "asdasd"
-      },
-      "body": {
-        "en": "asd",
-        "ar": "asdasd"
-      },
-      "showOnce": true,
-      "link": "https://github.com/SHETER0/reparo-releases/blob/main/announcements.json",
-      "linkText": {
-        "en": "test",
-        "ar": "test"
-      }
-    }
+    
   ]
 }
