@@ -2,21 +2,8 @@
   "schema": 1,
   "updatedAt": "2026-03-09T11:20:52.571Z",
   "messages": [
-    {
-      "id": "test",
-      "type": "info",
-      "title": {
-        "en": "test",
-        "ar": "test"
-      },
-      "body": {
-        "en": "test",
-        "ar": "test"
-      },
-      "showOnce": true
-    },
-    {
-      "id": "critical-update-v3.2.8",
+{
+      "id": "critical-updateV3.2.8-required",
       "type": "critical",
       "force": true,
       "minAppVersion": "3.2.8",
@@ -29,5 +16,6 @@
         "ar": "يرجى التحديث للمتابعة."
       }
     }
+    
   ]
 }
