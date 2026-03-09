@@ -3,17 +3,18 @@
   "updatedAt": "2026-03-09T11:14:43.557Z",
   "messages": [
     {
-      "id": "update-v3.2.8",
-      "type": "critical",
-      "title": {
-        "en": "Update ",
+    "id": "critical-update-v3.2.8",
+    "type": "critical",
+    "force": true,
+    "minAppVersion": "3.2.8",
+    "title": {
+        "en": "Update Required",
         "ar": "تحديث مطلوب"
-      },
-      "body": {
-        "en": "الرجاء التحديث الئ اخر اصدار ل استخدام خير ",
-        "ar": ""
-      },
-      "showOnce": true
+    },
+    "body": {
+        "en": "Please update to continue.",
+        "ar": "يرجى التحديث للمتابعة."
     }
+}
   ]
 }
